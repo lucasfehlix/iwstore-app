@@ -1,5 +1,4 @@
-
-.page-login {
+.page-password {
     align-items: center !important;
     margin: 0;
     width: 100%;
@@ -9,36 +8,28 @@
     justify-content: center;
 }
 
-.form-login {
+.form-password {
     width: 25rem;
     padding: 2rem;
     border: 1px solid #aaa; 
 }
 
-.email {
+.espaco {
     margin-bottom: 1rem !important;
 }
-.btn-login {
+
+.btn-password {
     background-color: #fa0 !important;
     color: #222 !important;
     margin-top: 1rem !important;
 }
 
-.btn-login:hover {
+.btn-password:hover {
     background-color: #f80 !important;
 }
 
-.title-login {
+.title-password {
     margin-bottom: 2rem !important;
-}
-
-p {
-    text-align: center;
-}
-
-.btn-pass {
-    font-size: .8em;
-    text-align: right;
 }
 
 .logo {

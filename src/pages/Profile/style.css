@@ -1,5 +1,5 @@
 
-.page-login {
+.page-profile {
     align-items: center !important;
     margin: 0;
     width: 100%;
@@ -9,36 +9,32 @@
     justify-content: center;
 }
 
-.form-login {
+.form-profile {
     width: 25rem;
     padding: 2rem;
     border: 1px solid #aaa; 
 }
 
-.email {
+.espaco {
     margin-bottom: 1rem !important;
 }
-.btn-login {
+
+.btn-profile {
     background-color: #fa0 !important;
     color: #222 !important;
     margin-top: 1rem !important;
 }
 
-.btn-login:hover {
+.btn-profile:hover {
     background-color: #f80 !important;
 }
 
-.title-login {
+.title-profile {
     margin-bottom: 2rem !important;
 }
 
 p {
     text-align: center;
-}
-
-.btn-pass {
-    font-size: .8em;
-    text-align: right;
 }
 
 .logo {
