@@ -1,0 +1,31 @@
+
+.page-login {
+    width: 25rem;
+    padding: 2rem;
+    border: 1px solid #aaa; 
+}
+
+.email {
+    margin-bottom: 1rem !important;
+}
+.btn-login {
+    background-color: #fa0 !important;
+    margin-top: 1rem !important;
+}
+
+.btn-login:hover {
+    background-color: #f80 !important;
+}
+
+.title-login {
+    margin-bottom: 2rem !important;
+}
+
+p {
+    text-align: center;
+}
+
+.btn-pass {
+    font-size: .8em;
+    text-align: right;
+}
